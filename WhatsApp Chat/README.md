@@ -15,7 +15,7 @@ This project analyzes WhatsApp chat data using Streamlit. It provides various vi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
+    git clone https://github.com/Vivek7987/WhatsAppChatAnalysis.git
     cd whatsapp-chat-analyzer
     ```
 
